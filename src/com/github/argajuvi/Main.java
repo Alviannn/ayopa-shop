@@ -1,12 +1,5 @@
 package com.github.argajuvi;
 
-/**
- * <h1>Design Pattern Overview</h1>
- * Our group is using 2 Design Pattern in this project and both of them are Creational Design Pattern:<br>
- * 1. Singletop Design Pattern. You can find the implementation in this class {@link com.github.argajuvi.database.Database}.<br>
- * 2. Factory Design Pattern. You can find the implementation in this class {@link com.github.argajuvi.models.product.ProductFactory}.
- */
-
 import com.github.argajuvi.database.Database;
 import com.github.argajuvi.menus.InitialMenu;
 import com.github.argajuvi.menus.Menu;
@@ -29,6 +22,20 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * <h1>Group Members</h1>
+ * <ol>
+ *     <li>2440113686 - Alvian Daru Quthni</li>
+ *     <li>2440023892 - Agustinus Ardian Cakra Widiastara</li>
+ *     <li>440021230 - Juan Trilnardo Defrin</li>
+ *     <li>2440113591 - Gafiliano Gapili</li>
+ * </ol>
+ *
+ * <h1>Design Pattern Overview</h1>
+ * Our group is using 2 Design Pattern in this project and both of them are Creational Design Pattern:<br>
+ * 1. Singleton Design Pattern. You can find the implementation in this class {@link Database}.<br>
+ * 2. Factory Design Pattern. You can find the implementation in this class {@link ProductFactory}.
+ */
 public class Main {
 
     public static List<Product> PRODUCT_LIST = new ArrayList<>();
