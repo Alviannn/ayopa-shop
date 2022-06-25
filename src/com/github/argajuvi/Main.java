@@ -27,7 +27,7 @@ import java.util.Map;
  * <ol>
  *     <li>2440113686 - Alvian Daru Quthni</li>
  *     <li>2440023892 - Agustinus Ardian Cakra Widiastara</li>
- *     <li>440021230 - Juan Trilnardo Defrin</li>
+ *     <li>2440021230 - Juan Trilnardo Defrin</li>
  *     <li>2440113591 - Gafiliano Gapili</li>
  * </ol>
  *
