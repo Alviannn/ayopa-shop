@@ -1,5 +1,12 @@
 package com.github.argajuvi;
 
+/**
+ * <h1>Design Pattern Overview</h1>
+ * Our group is using 2 Design Pattern in this project and both of them are Creational Design Pattern:<br>
+ * 1. Singletop Design Pattern. You can find the implementation in this class {@link com.github.argajuvi.database.Database}.<br>
+ * 2. Factory Design Pattern. You can find the implementation in this class {@link com.github.argajuvi.models.product.ProductFactory}.
+ */
+
 import com.github.argajuvi.database.Database;
 import com.github.argajuvi.menus.InitialMenu;
 import com.github.argajuvi.menus.Menu;
